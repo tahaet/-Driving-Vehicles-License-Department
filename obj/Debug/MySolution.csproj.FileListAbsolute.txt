@@ -1,0 +1,10 @@
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\bin\Debug\MySolution.exe.config
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\bin\Debug\MySolution.exe
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\bin\Debug\MySolution.pdb
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.csproj.AssemblyReference.cache
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.frmMain.resources
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.Properties.Resources.resources
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.csproj.GenerateResource.cache
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.csproj.CoreCompileInputs.cache
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.exe
+G:\MyFirstWinFormsProject\Projects\Solution\MySolution\obj\Debug\MySolution.pdb

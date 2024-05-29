@@ -1,0 +1,9 @@
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\bin\Debug\DVLD_Business.dll
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\bin\Debug\DVLD_Business.pdb
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\obj\Debug\DVLD_Business.csproj.CopyComplete
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\obj\Debug\DVLD_Business.dll
+G:\MyFirstWinFormsProject\Projects\Solution\DVLD\DVLD_Business\obj\Debug\DVLD_Business.pdb
